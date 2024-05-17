@@ -1,0 +1,51 @@
+body 
+{  
+    
+background-image:url();
+  }  
+
+.button
+{  
+    background-color: rgb(255, 255, 255);  
+    font-size: 20px; 
+}  
+.h6 
+{  
+    text-align: left;  
+}  
+.c  
+{  
+    background-color: chocolate;  
+} 
+.lorem 
+{ 
+    color: chocolate; 
+} 
+.button 
+{ 
+    text-align: center; 
+} 
+.color 
+{ 
+    text-align: right; 
+} 
+.color2 
+{ 
+    text-align: right; 
+} 
+.button3 
+{ 
+    font-size: 50px; 
+}
+.bimg{
+color: gold;
+display: flex;
+justify-content: center;
+}
+.bimg #1{
+border: none;
+border-radius: 5px;
+}
+.bimg #2{
+margin-left: 5px;
+}
